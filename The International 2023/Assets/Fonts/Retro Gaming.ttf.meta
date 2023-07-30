@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 04ac31c0e62784c708505dc4c73adf8c
+guid: 641e232ed0a2b4e61893748081513406
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - ArcadeClassic
+  - Retro Gaming
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
